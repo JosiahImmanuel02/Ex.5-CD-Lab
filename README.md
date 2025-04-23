@@ -60,6 +60,7 @@ void yyerror(const char *s) {
 }
 ```
 ## OUTPUT:
+
 ![Screenshot 2025-04-23 130204](https://github.com/user-attachments/assets/999f34aa-e6e6-4557-8ccc-a2889cea217f)
 
 ## RESULT:
